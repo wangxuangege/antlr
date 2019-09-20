@@ -11,6 +11,7 @@
         <module>antlr-jsonparser</module>
         <module>antlr-calculator</module>
         <module>antlr-sample-action</module>
+        <module>antlr-sample-sequence</module>
     </modules>
     <packaging>pom</packaging>
 
