@@ -10,6 +10,7 @@
     <modules>
         <module>antlr-jsonparser</module>
         <module>antlr-calculator</module>
+        <module>antlr-sample-action</module>
     </modules>
     <packaging>pom</packaging>
 
